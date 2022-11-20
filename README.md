@@ -1,10 +1,12 @@
 # ADV360-PRO-ZMK
 
-## To build Firmware in GitHub Actions
-
 Setup as of d05782f2bc5bb5cb95f35716fb49ce5d9d0b270c
 
 ![image](https://user-images.githubusercontent.com/20448408/202886147-33caf429-7e26-4298-8057-a73b946f9b8f.png)
+
+https://kinesiscorporation.github.io/Adv360-Pro-GUI
+
+## To build Firmware in GitHub Actions
 
 ### Setup
 
